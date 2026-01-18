@@ -74,6 +74,12 @@ activities = {
         "schedule": "Fridays, 4:00 PM - 5:30 PM",
         "max_participants": 12,
         "participants": ["charlotte@mergington.edu", "henry@mergington.edu"]
+    },
+    "Coding Contest": {
+        "description": "Participate in coding contests and improve your programming skills",
+        "schedule": "Saturdays, 10:00 AM - 1:00 PM",
+        "max_participants": 30,
+        "participants": []
     }
 }
 
